@@ -2,6 +2,7 @@ public class Human {
   // instance variables
   String name;
   int age;
+  int money;
   
   // static variable
   // this is used by all Human
